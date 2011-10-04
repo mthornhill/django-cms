@@ -28,3 +28,4 @@ from cms.tests.toolbar import *
 from cms.tests.urlutils import *
 from cms.tests.views import *
 from cms.tests.management import *
+from cms.tests.fixture_loading import *
